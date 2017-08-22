@@ -17,7 +17,6 @@
 				<!--HEADER START-->
 					<div class="header-container">
 						<div class="container-center">
-						<i class="fa fa-bars hamburger-menu-icon" aria-hidden="true">&nbsp;&nbsp;MENU</i>
 							<div class="logo-container">
 								<h1>THIS IS<br>MASSIVELY</h1>
 							</div>

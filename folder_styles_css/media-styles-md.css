@@ -6,14 +6,6 @@
 .container-center-pages-size{
  width:670px;
 }
-.hamburger-menu-icon{
- display:block;
- float:right;
- font-size:30px;
- font-weight:bold;
- color:white;
- padding:40px 10px 0px 0px;
-}
 .logo-container{
  width:100%;
  padding-top:420px;
@@ -27,6 +19,17 @@
 }
 .nav-icons-container{
  display:none;
+}
+.nav-menu-container li{
+ float:none;
+ width:100%;
+}
+.nav-menu-container{
+ float:none;
+ height:auto
+}
+.article-nav-container{
+ height:auto;
 }
 .article-massively-container{
  width:768px;

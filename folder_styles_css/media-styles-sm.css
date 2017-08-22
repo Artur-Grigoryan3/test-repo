@@ -41,7 +41,7 @@
  width:480px;
 }
 .article-container{
-display:none;
+display:block;
 }
 .article-date-story-container{
  height:75px;

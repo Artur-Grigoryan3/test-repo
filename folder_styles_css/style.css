@@ -29,6 +29,7 @@ code{
  background-repeat: no-repeat;
  background-attachment:fixed;
  overflow:hidden;
+ image-rendering: -webkit-optimize-contrast;
 }
 .container-center{
  width:1550px;
