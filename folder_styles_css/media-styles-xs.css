@@ -16,7 +16,7 @@
 }
 .logo-container{
  width:100%;
- padding-top:420px;
+ padding-top:180px;
  line-height:75px;
 }
 .logo-container h1{
@@ -49,7 +49,7 @@
 }
 .massive-image-container{
  width:100%;
- height:22%;
+ height:28%;
 }
 .massive-btn-container{
  width:190px;
@@ -79,7 +79,7 @@
 }
 .ind-st-image-container{
  width:100%;
- height:27%;
+ height:35%;
 }
 .ind-st-text-container{
  text-align:justify;
@@ -146,7 +146,7 @@ width:400px;
  font-size:25px;
 }
 .heading-text{
- font-size:24px;
+ font-size:19px;
  line-height:40px;
 }
 .unorder-alternate-colum, .ordered-icons-colum-container{
@@ -189,7 +189,7 @@ input[type="checkbox"]{
  display:block;
 }
 .fit-image{
- height:25%;
+ height:35%;
 }
 .fit-small-images{
  width:28%;
@@ -206,5 +206,8 @@ input[type="checkbox"]{
 .upfive{
  border:none;
  margin:15px 0px;
+}
+.footer-btn>a{
+ font-size:15px;
 }
 }
